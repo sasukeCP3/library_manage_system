@@ -8,8 +8,7 @@
 3、用户借阅（学号，书号，借出时间，归还时间，借出状态，预约排队）
 
 # E-R图构建
-
-
+![image](https://github.com/sasukeCP3/library_manager_system/blob/main/graph/ER.png)
 # 设计流程图
 ### 1、管理员总流程图
 
