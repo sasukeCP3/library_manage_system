@@ -13,23 +13,31 @@
 ### 1、管理员总流程图
 ![image](https://github.com/sasukeCP3/library_manager_system/blob/main/graph/admin.png)
 1. 添加书籍
+   
    ![image](https://github.com/sasukeCP3/library_manager_system/blob/main/graph/add_book.png)
-2. 删除书籍
+3. 删除书籍
+   
    ![image](https://github.com/sasukeCP3/library_manager_system/blob/main/graph/delete_book.png)
-3. 添加学生
+5. 添加学生
+   
    ![image](https://github.com/sasukeCP3/library_manager_system/blob/main/graph/add_user.png)
-4. 编辑学生信息
+7. 编辑学生信息
+   
    ![image](https://github.com/sasukeCP3/library_manager_system/blob/main/graph/edit_user.png)
-5. 删除学生
+9. 删除学生
+    
    ![image](https://github.com/sasukeCP3/library_manager_system/blob/main/graph/delete_user.png)
 
 ### 2、学生总流程图
 ![image](https://github.com/sasukeCP3/library_manager_system/blob/main/graph/user.png)
 1. 借阅书籍
+   
    ![image](https://github.com/sasukeCP3/library_manager_system/blob/main/graph/borrow.png)
-2. 归还书籍
+3. 归还书籍
+   
    ![image](https://github.com/sasukeCP3/library_manager_system/blob/main/graph/return.png)
-3. 预约书籍
+5. 预约书籍
+   
    ![image](https://github.com/sasukeCP3/library_manager_system/blob/main/graph/booking.png)
 
 
